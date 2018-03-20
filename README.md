@@ -12,6 +12,19 @@ Simple CLI to generate kaomoji!
 [![Downloads/week](https://img.shields.io/npm/dw/kaomoji.svg)](https://npmjs.org/package/kaomoji)
 [![License](https://img.shields.io/npm/l/kaomoji.svg)](https://github.com/crcastle/kaomoji/blob/master/package.json)
 
+This is an example CLI built using [oclif](https://github.com/oclif/oclif).  It outputs [kaomoji](https://en.wikipedia.org/wiki/Kaomoji) from words.
+
+```
+$ ./bin/run shrug
+¯\_(ツ)_/¯
+
+$ ./bin/run happy
+ᕕ( ᐛ )ᕗ
+
+$ ./bin/run tableflip
+(ノ ゜Д゜)ノ ︵ ┻━┻
+```
+
 <!-- toc -->
 <!-- install -->
 <!-- usage -->
