@@ -6,7 +6,7 @@
   "bin": {
     "kaomoji": "./bin/run"
   },
-  "bugs": "https://github.com/crcastle/kaomoji/issues",
+  "bugs": "https://github.com/oclif/kaomoji/issues",
   "dependencies": {
     "@oclif/command": "^1.4.2",
     "@oclif/config": "^1.3.59",
@@ -34,7 +34,7 @@
     "/bin",
     "/lib"
   ],
-  "homepage": "https://github.com/crcastle/kaomoji",
+  "homepage": "https://github.com/oclif/kaomoji",
   "keywords": [
     "oclif"
   ],
@@ -43,7 +43,7 @@
   "oclif": {
     "bin": "kaomoji"
   },
-  "repository": "crcastle/kaomoji",
+  "repository": "oclif/kaomoji",
   "scripts": {
     "build": "rm -rf lib && tsc",
     "lint": "tsc -p test --noEmit && tslint -p test -t stylish",
