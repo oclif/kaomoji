@@ -33,7 +33,7 @@ const dictionary = {
   },
   bear: {
     words: ['bear', 'koala'],
-    ascii: 'ʕ·͡ᴥ·ʔ﻿',
+    ascii: 'ʕ·͡ᴥ·ʔ ',
   },
   bearflip: {
     words: ['bearflip'],
@@ -133,7 +133,7 @@ const dictionary = {
   },
   creepcute: {
     words: ['creepcute'],
-    ascii: 'ƪ(ړײ)‎ƪ​​',
+    ascii: 'ƪ(ړײ)‎ƪ  ',
   },
   crim3s: {
     words: ['crim3s'],
@@ -349,7 +349,7 @@ const dictionary = {
   },
   flipped: {
     words: ['flipped', 'heavytable'],
-    ascii: '┬─┬﻿ ︵ /(.□. \\）',
+    ascii: '┬─┬  ︵ /(.□. \\）',
   },
   flower: {
     words: ['flower', 'flor'],
@@ -489,7 +489,7 @@ const dictionary = {
   },
   internet: {
     words: ['internet'],
-    ascii: 'ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ',
+    ascii: 'ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ',
   },
   interrobang: {
     words: ['interrobang'],
@@ -877,11 +877,11 @@ const dictionary = {
   },
   swag: {
     words: ['swag'],
-    ascii: '(̿▀̿‿ ̿▀̿ ̿)',
+    ascii: '(̿▀̿‿ ̿▀̿ ̿)',
   },
   tabledown: {
     words: ['tabledown'],
-    ascii: '┬─┬﻿ ノ( ゜-゜ノ)',
+    ascii: '┬─┬  ノ( ゜-゜ノ)',
   },
   tableflip: {
     words: ['tableflip'],
