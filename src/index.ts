@@ -1,4 +1,4 @@
-import {Command, flags} from '@oclif/command'
+import {Command} from '@oclif/command'
 import * as _ from 'lodash'
 
 import * as kaomoji from './kaomoji'
