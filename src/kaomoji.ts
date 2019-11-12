@@ -1027,8 +1027,8 @@ const dictionary = {
 
 const e: {[k: string]: string} = {}
 
-for (let {words, ascii} of Object.values(dictionary)) {
-  for (let word of words) e[word] = ascii
+for (const {words, ascii} of Object.values(dictionary)) {
+  for (const word of words) e[word] = ascii
 }
 
 export = e
