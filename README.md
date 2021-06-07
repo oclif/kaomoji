@@ -6,7 +6,6 @@ Simple CLI to generate kaomoji!
 [![Version](https://img.shields.io/npm/v/kaomoji.svg)](https://npmjs.org/package/kaomoji)
 [![CircleCI](https://circleci.com/gh/oclif/kaomoji/tree/master.svg?style=shield)](https://circleci.com/gh/oclif/kaomoji/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/oclif/kaomoji?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/kaomoji/branch/master)
-[![Codecov](https://codecov.io/gh/oclif/kaomoji/branch/master/graph/badge.svg)](https://codecov.io/gh/oclif/kaomoji)
 [![Greenkeeper](https://badges.greenkeeper.io/oclif/kaomoji.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/github/oclif/kaomoji/badge.svg)](https://snyk.io/test/github/oclif/kaomoji)
 [![Downloads/week](https://img.shields.io/npm/dw/kaomoji.svg)](https://npmjs.org/package/kaomoji)
